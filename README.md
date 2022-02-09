@@ -1,6 +1,6 @@
 # Sign Language Detection
 
-## Introduction
+## Objective
 The objective of this project is to be able to classify hand made sign language gestures into their respective alphabets in realtime and use them as input.
 
 ![Sign Language Chart1](/assets/amer_sign2.png)
