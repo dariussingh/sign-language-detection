@@ -24,3 +24,4 @@ The architecture of the model is given below:
 ## Results
 We obtain an image classification accuracy of __98.37%__.
 
+![Results1](/saved_frames/1_L.jpg)
